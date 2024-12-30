@@ -1,9 +1,11 @@
+import CounterConfig from "./components/Counter/CounterConfig";
+
 function App() {
   return (
     <>
-      <h1>Practice 05.12.2024</h1>
+      <h1>Practice 30.12.2024</h1>
       <hr />
-      <button>TEST</button>
+      <CounterConfig />
     </>
   );
 }
